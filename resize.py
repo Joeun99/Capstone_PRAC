@@ -2,14 +2,14 @@ import os
 import cv2
 
 # 원본 이미지가 있는 디렉토리
-input_directory = r"C:\Users\user\Desktop\drink_final\tamszeropine"
+input_directory = r"C:\Users\user\Desktop\drink\demisoda"
 
 # resize된 이미지를 저장할 디렉토리
-output_directory = r"C:\Users\user\Desktop\drink_final\tamszeropine_resized"
+output_directory = r"C:\Users\user\Desktop\drink\demisoda_resized"
 
 # resize할 너비와 높이pi
-new_width = 608
-new_height = 608
+new_width = 1500
+new_height = 2000
 
 # 출력 디렉토리가 없으면 생성
 if not os.path.exists(output_directory):
