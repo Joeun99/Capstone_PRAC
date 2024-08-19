@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/37655875-263e-4994-ac77-8d7c1b3f7e53
 ![Untitled](https://github.com/user-attachments/assets/576bbac7-46ae-4887-81aa-a24a41a7f859)
 <br><br>
 
-# 화면 구성<br><br>
+# 화면 구성
 ![image](https://github.com/dltngus02/capstone/assets/120762921/4673a384-6e16-45bc-9f3e-ced835fe6649)<br>
 메인 페이지<br><br>
 
