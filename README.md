@@ -28,7 +28,7 @@
 
 ## 🚀성과<br>
 ![화면 캡처 2024-08-30 110852](https://github.com/user-attachments/assets/ac8fc74c-3d7a-43e1-b499-13883b77102a)
-![image](https://github.com/user-attachments/assets/ea4e6d86-4c08-4fe0-bd1b-439f7341f372)
+![KakaoTalk_20240830_111146790](https://github.com/user-attachments/assets/320f9d6c-84d8-41bc-80c7-594ca712a54b)
 
 # 🖥 개발 내용
 ### Yolov5를 활용한 객체 인식
