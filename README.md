@@ -15,6 +15,7 @@
 # ⏰개발 기간
 - 23-09-03~23-12-20
 <br><br>
+
 # 💻개발 환경
 - 개발환경 :  window 10
 - 개발언어 : javascript, python
@@ -24,6 +25,11 @@
 - 데이터베이스 툴 : mysql 8.0
 - 협업 툴 : git, github
 <br><br>
+
+## 🚀성과<br>
+![화면 캡처 2024-08-30 110852](https://github.com/user-attachments/assets/ac8fc74c-3d7a-43e1-b499-13883b77102a)
+![image](https://github.com/user-attachments/assets/ea4e6d86-4c08-4fe0-bd1b-439f7341f372)
+
 # 🖥 개발 내용
 ### Yolov5를 활용한 객체 인식
 
